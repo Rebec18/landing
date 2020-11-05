@@ -1,0 +1,16 @@
+.banner {
+  background-image: url(../../images/lesvacances.jpg);
+  background-size: cover;
+  background-position: bottom;
+  padding: 20px;
+  height: 433px;
+}
+
+.flex-container: {
+  display: flex;
+  align-items: flex-start;
+}
+
+.banner p {
+  color: #3976eb;
+}
